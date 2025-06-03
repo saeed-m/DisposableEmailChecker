@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <!-- NuGet Package Metadata -->
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <Version>1.0.0</Version>
+	  <Authors>Saeed Moghaddas</Authors>
+	  <Company>MITSoft</Company>
+	  <PackageId>DisposableEmailChecker</PackageId>
+	  <Description>Checks if an email is disposable using a built-in list of known domains.</Description>
+	  <PackageTags>disposable,email,validator,spam,checker</PackageTags>
+	  <RepositoryUrl>https://github.com/yourusername/DisposableEmailChecker</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
