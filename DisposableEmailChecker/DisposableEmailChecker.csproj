@@ -19,7 +19,9 @@
 		<RepositoryUrl>https://github.com/saeed-m/DisposableEmailChecker</RepositoryUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	    <PackageReadmeFile>README.md</PackageReadmeFile>
-	
+		<PackageIcon>icon.png</PackageIcon>
+		<PackageIconUrl>https://raw.githubusercontent.com/saeed-m/DisposableEmailChecker/main/icon.png</PackageIconUrl>
+
 	</PropertyGroup>
 	<ItemGroup>
 		<None Include="README.md" Pack="true" PackagePath="" />

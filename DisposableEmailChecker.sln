@@ -5,8 +5,6 @@ VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableEmailChecker", "DisposableEmailChecker\DisposableEmailChecker.csproj", "{72986712-389E-44CD-974A-1B4283226E38}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableEmailChecker.TestApp", "DisposableEmailChecker.TestApp\DisposableEmailChecker.TestApp.csproj", "{E9978168-6063-4332-846F-EBED67DE44B9}"
 EndProject
 Global
@@ -26,10 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{72986712-389E-44CD-974A-1B4283226E38} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{E9978168-6063-4332-846F-EBED67DE44B9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {61ACB25C-AC18-4E76-A31E-7CE043FC1362}
