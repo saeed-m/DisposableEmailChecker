@@ -10,9 +10,7 @@ Install via NuGet:
 
 ```bash
 dotnet add package DisposableEmailChecker
-
-
-
+```
 ## Usage
 
 ```csharp
@@ -37,3 +35,4 @@ switch (result)
         Console.WriteLine("✅ Email is valid and not disposable.");
         break;
 }
+```
